@@ -1,0 +1,23 @@
+body {
+    background-color: white;
+    text-align: center;
+}
+
+#inputs {
+    padding: 50px;
+}
+
+input,
+select,
+button {
+    height: 50px;
+}
+
+button {
+    padding: 0px 15px;
+}
+
+#phrase {
+    padding: 60px;
+    font-size: 50px;
+}
